@@ -1,0 +1,71 @@
+* {
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+body {
+  margin: 0 auto;
+  align-items: center;
+}
+.descriprion {
+  background-color: white;
+  margin-left: 145px;
+  margin-right: 145px;
+  margin-top: 105px;
+}
+
+.desc__inner {
+  text-align: center;
+}
+.desc__inner h2 {
+  font-size: 18.64pt;
+  text-transform: uppercase;
+  font-weight: lighter;
+}
+
+.item h3 {
+  font-weight: lighter;
+}
+.line {
+  margin: 30px auto;
+  background-color: #ff8b38;
+  width: 64px;
+  height: 1px;
+}
+.cards {
+  display: flex;
+  justify-content: space-between;
+  margin: 50px;
+  align-items: center;
+  text-align: center;
+}
+.item {
+}
+.text {
+  color: #a4a5a8;
+  font-size: 8.36pt;
+  max-width: 330px;
+}
+p {
+  color: #a4a5a8;
+  font-size: 8.36pt;
+}
+.fa-keyboard-o {
+}
+.fa-bolt {
+}
+.item {
+  align-items: center;
+  text-align: center;
+}
+
+.item i {
+  font-size: 20px;
+  padding-top: 13px;
+  width: 50px;
+  height: 50px;
+  color: #ff8b38;
+  background: white;
+  border: #ff8b38 solid 2px;
+  border-radius: 50%;
+}
